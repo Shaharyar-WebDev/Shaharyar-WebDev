@@ -4,7 +4,7 @@
 🔹 Focused on **building web applications**, **learning Laravel**, and **improving JavaScript skills**.  
 
 ### 👀 I’m interested in:  
-- **Web Development** (PHP, MySQL, Laravel, JavaScript, Bootstrap)  
+- **Web Development** (PHP, MySQL, Laravel, JavaScript, tailwind)  
 - **Open Source Contributions**  
 - **Backend Development & APIs**  
 - **Database Optimization & Management**  
