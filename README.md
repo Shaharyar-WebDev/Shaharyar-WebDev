@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Shaharyar (@Shaharyar-WebDev)  
-🔹 Passionate **PHP & MySQL Developer** with a strong interest in backend development and database management.  
+🔹 Passionate **PHP, Laravel & MySQL Developer** with a strong interest in backend development and database management.  
 🔹 Currently pursuing **Advanced Diploma in Software Engineering (ADSE)** at Aptech Pakistan.  
 🔹 Focused on **building web applications**, **learning Laravel**, and **improving JavaScript skills**.  
 
