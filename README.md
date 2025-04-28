@@ -7,27 +7,20 @@ I've completed multiple personal projects including job portals, hospital manage
 Always learning, always building. Ready to bring ideas to life through clean, efficient code!
 
 👀 I’m interested in:
-Full-stack Web Development (PHP, Laravel, JavaScript, TailwindCSS)
-
-Backend Systems & APIs
-
-Database Optimization and Management
-
-Open Source Contributions
+🔹 Full-stack Web Development (PHP, Laravel, JavaScript, TailwindCSS)
+🔹 Backend Systems & APIs
+🔹 Database Optimization and Management
+🔹 Open Source Contributions
 
 🌱 Currently Growing In:
-Advanced Laravel and PHP Techniques
-
-RESTful APIs, Authentication, and Web Security
-
-JavaScript Frameworks and Real-time Features
+🔹 Advanced Laravel and PHP Techniques
+🔹 RESTful APIs, Authentication, and Web Security
+🔹 JavaScript Frameworks and Real-time Features
 
 💬 Open to Collaborate On:
-Backend-focused web applications (Laravel, MySQL)
-
-Full-stack projects involving Livewire, TailwindCSS, and JavaScript
-
-Open Source Projects and Community-driven initiatives
+🔹 Backend-focused web applications (Laravel, MySQL)
+🔹 Full-stack projects involving Livewire, TailwindCSS, and JavaScript
+🔹 Open Source Projects and Community-driven initiatives
 
 📫 Reach Me At:
 📩 Email: shery.codes@gmail.com
